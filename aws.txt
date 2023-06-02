@@ -1,0 +1,3 @@
+hey devops
+this is aws.txt file
+welcome
