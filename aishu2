@@ -1,0 +1,11 @@
+ Whenever a developer commits the code using source code management like GIT, then the CI pipeline gets the changes of the code runs automatically build and unit test. 
+
+Due to integrating the new code with old code, we can easily get to know the code is a success or failure. 
+
+It finds the errors more quickly
+
+Delivery the products to client more frequently
+
+Developers don't need to manual tasks 
+
+Reduces the developers time 20% to 30%
